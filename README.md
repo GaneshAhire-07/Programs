@@ -1,3 +1,3 @@
 # Programs
-This is my first repository
-Try to do your best!
+This is my first repository.
+Try to do my best!
